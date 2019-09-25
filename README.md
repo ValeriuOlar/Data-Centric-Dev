@@ -1,6 +1,6 @@
-# Data-Centric-Website dev:
+# Data-Centric-Website dev title:
 ## Demo
-A live demo can be found [here]("Here goes the webproject link")
+A live demo can be found [here]("Here goes the webproject link")  
 ## UX
 While building the prototype website my goal is to make it as easy as possible for cocktail enthusiasts find inform about the variety of cocktails and the great location of the bar
 ## Technologies
