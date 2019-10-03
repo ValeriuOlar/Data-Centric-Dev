@@ -9,6 +9,8 @@ While building the prototype website my goal is to make it as easy as possible f
 3.	[Ajax Pop up effect to be added]( https://www.w3schools.com/xml/ajax_intro.asp)
 4.	[Bootstrap 4.0.0]( https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 5.	[JavaScript jQuery]( https://www.w3schools.com/js/default.asp)
+## Optional:
+### jQuery, d3.js, crossfilter and/or dc.js, any  JavaScript libraries, SaSS, external APIs.
 
 ## Features
 The site is coded in CSS to be Mobile and desktop friendly, it has Bootstrap with an extra JavaScript action functions added so it will create a smoother scrolling effect. 
